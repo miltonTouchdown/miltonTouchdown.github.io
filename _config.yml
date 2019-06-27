@@ -13,6 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+minimal_mistakes_skin    : "default" 
+
 title: Milton Pulgar
 email: johao.pulgar@gmail.com
 name: "Milton Pulgar"
@@ -29,6 +31,17 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
+  # Site Author
+author:
+  name             : "Milton Pulgar"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Ingeniero Civil Informático"
+  location         : "Santiago, Región Metropolitana"
+  #email            : "johao.pulgar@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:johao.pulgar@gmail.com
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
