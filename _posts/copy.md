@@ -1,6 +1,7 @@
 ---
 title: "Rappi"
 date: 2019-06-27
+tags: [videogame, unity, c#]
 #header:
     #image: "assets/images/posts/RappiAR/rappi_ar_1.png"
 ---

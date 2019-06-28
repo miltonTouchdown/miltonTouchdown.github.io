@@ -1,6 +1,7 @@
 ---
 title: "Ausma prototype"
 date: 2019-06-27
+tags: [videogame, unity, c#]
 ---
 
 <b>Description:</b> Ausma is a top-down sci-fi action game telling the story of a post-apocaliptic world dominated by strange and incredible powerful machines. Our hero, with the ability to swap between dimensions, is going to try to stop the machines and restore humanity.

@@ -1,6 +1,7 @@
 ---
 title: "Rappi: Minigame with reality augmented"
 date: 2019-06-26
+tags: [videogame, unity, c#, vuforia, ar]
 ---
 
 <b>Description:</b> Minigame similar to "Pepito paga doble" with reality augmented.
