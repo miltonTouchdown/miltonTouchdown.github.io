@@ -1,6 +1,6 @@
 ---
 title: "Optimization and publish VR project MIT"
-date: 2018-05-28
+date: 2018-05-25
 tags: [videogame, Unreal, pc, optimization, mit]
 ---
 
