@@ -1,5 +1,5 @@
 ---
-title: "Portal to a 3D World with reality augmented"
+title: "Portal to a 3D World with augmented reality"
 date: 2019-06-25
 tags: [videogame, unity, c#, ar, arcore]
 ---
