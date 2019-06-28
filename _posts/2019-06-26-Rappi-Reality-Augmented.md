@@ -1,26 +1,17 @@
 ---
-title: "Rappi"
+title: "Rappi: Minigame with reality augmented"
 date: 2019-06-27
-#header:
-    #image: "assets/images/posts/RappiAR/rappi_ar_1.png"
 ---
 
-# H1 Heading
+<b>Description:</b> Minigame similar to "Pepito paga doble" with reality augmented.
 
-## H2 Heading
+<b>Platform:</b> Android & iOS
 
-## H3 Heading
+<b>Extra:</b> Developed with Unity and Vuforia (image targets)
 
-{% include video id="o97LvGvLEtI" provider="youtube" %}
+## Video
+{% include video id="Vrze9EDeBK4" provider="youtube" %}
 
-Una imagen 
-
+## Screenshot
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/RappiAR/rappi_ar_1.png" alt="">
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-<figure class="half">
-    <a href="/assets/images/posts/RappiAR/rappi_ar_1.png"><img src="/assets/images/posts/RappiAR/rappi_ar_1.png"></a>
-    <a href="/assets/images/posts/RappiAR/rappi_ar_1.png"><img src="/assets/images/posts/RappiAR/rappi_ar_1.png"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
