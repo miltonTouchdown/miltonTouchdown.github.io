@@ -1,7 +1,7 @@
 ---
 title: "CondoriMeme mobile app"
-date: 2017-10-27
-tags: [videogame, unity, c#, android, comic]
+date: 2017-10-23
+tags: [videogame, unity, c#, android]
 ---
 
 <b>Description:</b> 
