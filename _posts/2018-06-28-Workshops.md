@@ -12,8 +12,6 @@ Developed with Unity
 
 [Global game jam profile and download](https://globalgamejam.org/2018/games/sanzaru)
 
-<b>Description:</b> Minigame similar to "Pepito paga doble" with augmented reality.
-
 <figure class="half">
     <a href="/assets/images/posts/Workshops/Sanzaru_capture_1.jpg"><img src="/assets/images/posts/Workshops/Sanzaru_capture_1.jpg"></a>
     <a href="/assets/images/posts/Workshops/Sanzaru_capture_2.jpg"><img src="/assets/images/posts/Workshops/Sanzaru_capture_2.jpg"></a>
